@@ -1,0 +1,7 @@
+## cloning
+git clone https://github.com/Vandrexga/Test-Repo
+
+## check for changes
+git status
+git add -A
+git commit -m "add a new feature x"
